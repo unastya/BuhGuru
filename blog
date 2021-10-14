@@ -1,0 +1,315 @@
+ <section class="page__knowledge knowledge">
+                <div class="knowledge__container container">
+                    <h2 class="title knowledge__title">О бухгалтерии простым языком</h2>
+                    <div class="knowledge__nav nav">
+                        <nav class="nav__list">
+                            <a class="nav__list-link" href="#tab_01">База знаний</a>
+                            <a class="nav__list-link" href="#tab_02">Новости законов</a>
+                            <a class="nav__list-link" href="#tab_03">Блог</a>
+                        </nav>
+                    </div>
+
+                    <div class="knowledge__body">
+
+                        <div class="knowledge__body-tab tab-body" id="tab_01">
+                            <div class="tab-body__baza baza">
+                                <div class="baza__column">
+
+                                    <article class="baza__item item-baza">
+                                        <a class="item-baza__image" href="#">
+                                            <img src="images/baza-1.jpg" alt="#">
+                                        </a>
+                                        <div class="item-baza__content baza-content">
+                                            <a class="baza-content__link" href="#">
+                                                <h3 class="title baza-content__title">Налоговый календарь на сентябрь
+                                                    2021</h3>
+                                            </a>
+                                            <div class="baza-content__text">По традиции публикуем ежемесячный налоговый
+                                                календарь для
+                                                предпринимателей и их бухгалтеров. В сентябре он не особо насыщенный —
+                                                есть
+                                                время
+                                                сходить в отпуск и подготовиться к октябрьской отчётной кампании.
+                                            </div>
+                                            <div class="baza-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+
+                                        </div>
+                                    </article>
+
+                                    <article class="baza__item item-baza">
+                                        <a class="item-baza__image" href="#">
+                                            <img src="images/baza-2.jpg" alt="#">
+                                        </a>
+                                        <div class="item-baza__content baza-content">
+                                            <a class="baza-content__link" href="#">
+                                                <h3 class="title baza-content__title">Как получить компенсацию за
+                                                    трудоустройство
+                                                    безработных</h3>
+                                            </a>
+                                            <div class="baza-content__text">В 2021 году действует программа помощи тем,
+                                                кто
+                                                на
+                                                начало
+                                                2021
+                                                года числился в центре занятости либо в 2020 году окончил техникум,
+                                                колледж
+                                                или вуз.
+                                                За
+                                                их трудоустройство организации и ИП получат от соцстраха субсидии —
+                                                компенсацию
+                                                расходов
+                                                на зарплату. Расскажем, кому положены выплаты и как их получить.
+                                            </div>
+                                            <div class="baza-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+
+                                        </div>
+                                    </article>
+
+                                    <article class="baza__item item-baza">
+                                        <a class="item-baza__image" href="#">
+                                            <img src="images/baza-3.jpg" alt="#">
+                                        </a>
+                                        <div class="item-baza__content baza-content">
+                                            <a class="baza-content__link" href="#">
+                                                <h3 class="title baza-content__title">ФСБУ 27/2021: как теперь работать
+                                                    с
+                                                    документами
+                                                    и
+                                                    документооборотом</h3>
+                                            </a>
+                                            <div class="baza-content__text">До 2021 года в РФ не было специального
+                                                нормативного
+                                                акта,
+                                                посвящённого документам и документообороту в бухгалтерском учёте. Теперь
+                                                такой
+                                                стандарт
+                                                появился — это новый ФСБУ 27/2021. Мы сделали обзор нового стандарта —
+                                                проверьте,
+                                                всё ли
+                                                вы делаете правильно.
+                                            </div>
+                                            <div class="baza-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+
+                                        </div>
+                                    </article>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="knowledge__body-tab tab-body" id="tab_02">
+                            <div class="tab-body__news news">
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-1.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Налоговая разгрузка. Уменьшаем
+                                                    налоги</h3>
+                                            </a>
+                                            <div class="news-content__date">07.09.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-2.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Как платить налог на прибыль в
+                                                    2021 году</h3>
+                                            </a>
+                                            <div class="news-content__date">03.09.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-3.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Экономим 25% при оплате госпошлины
+                                                </h3>
+                                            </a>
+                                            <div class="news-content__date">31.08.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-4.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Как оформить сотрудника на
+                                                    дистанционную
+                                                    работу – 407-ФЗ</h3>
+                                            </a>
+                                            <div class="news-content__date">27.08.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-5.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Заполнение счета-фактуры и УПД с 1
+                                                    июля 2021
+                                                    года</h3>
+                                            </a>
+                                            <div class="news-content__date">24.08.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="news__column">
+                                    <article class="news__item item-news">
+                                        <a class="item-news__image" href="#">
+                                            <img src="images/blog/blog-6.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__content news-content">
+                                            <a class="news-content__link" href="#">
+                                                <h3 class="title news-content__title">Можно ли вести бизнес без
+                                                    расчётного счёта
+                                                    года</h3>
+                                            </a>
+                                            <div class="news-content__date">20.08.2021</div>
+                                            <div class="news-content__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="knowledge__body-tab" id="tab_03">
+                            <div class="slider-tab__blog blog">
+                                <div class="blog__list">
+
+                                    <article class="blog__item item-blog">
+                                        <a class="item-blog__image" href="#">
+                                            <img src="images/blog/blog-1.jpg" alt="illustration">
+                                        </a>
+                                        <div class="item-news__body news-body">
+                                            <div class="news-body__title">Изменения по страховым взносам в 2021 году
+                                            </div>
+                                            <div class="news-body__date">24.08.2021</div>
+                                            <div class="news-body__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article class="blog__item item-blog">
+                                        <div class="item-blog__image">
+                                            <img src="images/blog/blog-2.jpg" alt="illustration">
+                                        </div>
+                                        <div class="item-news__body news-body">
+                                            <div class="news-body__title">Как упростить бухгалтерский учёт для малого
+                                                бизнеса</div>
+                                            <div class="news-body__date">21.08.2021</div>
+                                            <div class="news-body__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article class="blog__item item-blog">
+                                        <div class="item-blog__image">
+                                            <img src="images/blog/blog-3.jpg" alt="illustration">
+                                        </div>
+                                        <div class="item-news__body news-body">
+                                            <div class="news-body__title">Стоит ли открывать ИП на ОСНОа</div>
+                                            <div class="news-body__date">17.08.2021</div>
+                                            <div class="news-body__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article class="blog__item item-blog">
+                                        <div class="item-blog__image">
+                                            <img src="images/blog/blog-4.jpg" alt="illustration">
+                                        </div>
+                                        <div class="item-news__body news-body">
+                                            <div class="news-body__title">Когда может произойти блокировка расчётного
+                                                счёта банком по 115-ФЗ</div>
+                                            <div class="news-body__date">12.08.2021</div>
+                                            <div class="news-body__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article class="blog__item item-blog">
+                                        <div class="item-blog__image">
+                                            <img src="images/blog/blog-5.jpg" alt="illustration">
+                                        </div>
+                                        <div class="item-news__body news-body">
+                                            <div class="news-body__title">Что делать когда ИП переезжает в другой регион
+                                            </div>
+                                            <div class="news-body__date">07.08.2021</div>
+                                            <div class="news-body__statistic statistic">
+                                                <div class="statistic__views">142</div>
+                                                <div class="statistic__comments">48</div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
