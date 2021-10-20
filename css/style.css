@@ -1066,7 +1066,9 @@ form {
     appearance: none;
     cursor: pointer;
 }
-
+input [type = radio] {
+    display: none;
+}
 .form__input::before {
     content: '';
     position: absolute;
